@@ -1,0 +1,253 @@
+LocalAuthorityName	SiteCode	SiteName	SiteType	DateClosed	DateOpened	Latitude	Longitude
+Richmond	TD0	- National Physical Laboratory, Teddington	Suburban	2018-01-01 00:00:00	1996-08-08 00:00:00	51.4243043441456	-0.345714576446947
+Barking and Dagenham	BG3	Barking and Dagenham - North Street	Kerbside	2011-05-25 00:00:00	2007-03-16 00:00:00	51.540444	0.074418
+Barking and Dagenham	BG1	Barking and Dagenham - Rush Green	Suburban		1999-11-02 00:00:00	51.563752	0.177891
+Barking and Dagenham	BG2	Barking and Dagenham - Scrattons Farm	Suburban		1999-10-17 00:00:00	51.529389	0.132857
+Barnet	BN2	Barnet - Finchley	Urban Background	2012-04-20 00:00:00	2000-08-09 13:00:00	51.591901	-0.205992
+Barnet	BN3	Barnet - Strawberry Vale 	Urban Background	2002-05-15 00:00:00	2000-08-14 14:00:00	51.6008848453589	-0.172297542087178
+Barnet	BN1	Barnet - Tally Ho Corner	Kerbside	2012-04-20 00:00:00	1998-12-20 12:00:00	51.614675	-0.176607
+Bexley	BX5	Bexley - Bedonwell 	Suburban	2004-04-08 00:00:00	1999-10-06 13:00:00	51.4788023547334	0.133873839062683
+Bexley	BX2	Bexley - Belvedere	Suburban		1998-01-24 15:00:00	51.4906102082147	0.158914493927518
+Bexley	BX0	Bexley - Belvedere FDMS	Suburban	2022-01-28 00:00:00	2004-04-28 00:00:00	51.4906102082147	0.158914493927518
+Bexley	BQ7	Bexley - Belvedere West	Urban Background		2010-08-24 00:00:00	51.4946486813055	0.137279111232178
+Bexley	BQ8	Bexley - Belvedere West FDMS	Urban Background	2022-02-23 00:00:00	2010-08-24 00:00:00	51.4946486813055	0.137279111232178
+Bexley	BX4	Bexley - Erith	Industrial	2014-12-19 00:00:00	1999-04-28 00:00:00	51.477670796298	0.190836225974902
+Bexley	BQ6	Bexley - Manor Road East Gravimetric	Industrial	2014-10-28 00:00:00	2010-02-12 00:00:00	51.477670796298	0.190836225974902
+Bexley	BQ5	Bexley - Manor Road West Gravimetric	Industrial	2014-10-28 00:00:00	1999-04-28 09:00:00	51.4781935083933	0.187404883999095
+Bexley	BX1	Bexley - Slade Green	Suburban		1994-05-25 00:00:00	51.4659832746662	0.184877126994369
+Bexley	BX9	Bexley - Slade Green FDMS	Suburban	2020-10-01 00:00:00	2008-10-21 00:00:00	51.4659832746662	0.184877126994369
+Bexley	BQ9	Bexley - Slade Green Fidas	Suburban		2020-10-01 00:00:00	51.4659832746662	0.184877126994369
+Bexley	BX7	Bexley - Thames Road North	Roadside	2010-03-23 00:00:00	2004-04-08 00:00:00	51.457159	0.195294
+Bexley	BX6	Bexley - Thames Road North FDMS	Roadside	2010-03-23 00:00:00	2004-04-08 00:00:00	51.457159	0.195294
+Bexley	BX8	Bexley - Thames Road South	Roadside	2010-04-15 00:00:00	2004-04-06 00:00:00	51.456887	0.194582
+Bexley	BX3	Bexley - Thamesmead	Suburban	2018-03-12 00:00:00	1998-01-24 15:00:00	51.510808	0.121617
+Bexley	BQ3	Bexley 8 - Traffic(E fast)	Kerbside	2010-04-13 00:00:00	2007-08-14 00:00:00	51.4568546603968	0.194546362638148
+Bexley	BQ4	Bexley 8 - Traffic(E slow - nearest BX7)	Kerbside	2010-04-13 00:00:00	2007-08-14 00:00:00	51.4568546603968	0.194546362638148
+Bexley	BQ2	Bexley 8 - Traffic(W fast)	Kerbside	2010-04-13 00:00:00	2007-08-14 00:00:00	51.4568546603968	0.194546362638148
+Bexley	BQ1	Bexley 8 - Traffic(W slow - nearest BX8)	Kerbside	2010-04-13 00:00:00	2007-08-14 00:00:00	51.4568546603968	0.194546362638148
+Brent	BT8	Brent - ARK Franklin Primary Academy	Roadside		2017-10-30 00:00:00	51.5324054617809	-0.217718908639377
+Brent	BT3	Brent - Harlesden	Roadside	2006-09-27 00:00:00	2001-10-31 00:00:00	51.5370800298103	-0.249273425299457
+Brent	BT4	Brent - Ikea	Roadside		2003-06-20 06:00:00	51.552476	-0.258089
+Brent	BT2	Brent - Ikea Car Park	Roadside	2003-06-16 00:00:00	2001-06-17 12:00:00	51.5524326273922	-0.260338843869077
+Brent	BT6	Brent - John Keble Primary School	Roadside		2006-11-01 00:00:00	51.537799	-0.247793
+Brent	BT1	Brent - Kingsbury	Suburban	2010-11-16 00:00:00	1996-01-26 00:00:00	51.589618	-0.275519
+Brent	BT5	Brent - Neasden Lane	Industrial		2004-02-29 23:00:00	51.552656	-0.248774
+Brent	BT7	Brent - St Marys Primary School	Urban Background	2010-12-21 00:00:00	2008-01-04 00:00:00	51.534718	-0.196664
+Bromley	BY5	Bromley - Biggin Hill	Suburban	2010-07-09 08:45:00	1996-04-01 00:00:00	51.314562	0.042019
+Bromley	BY7	Bromley - Harwood Avenue	Roadside		1998-07-06 11:00:00	51.405546	0.018882
+Bromley	BY1	Bromley - Rent Office	Urban Background	1996-01-11 21:00:00	1993-01-01 00:00:00	51.4132338948359	0.00721471618770671
+Bromley	BY4	Bromley - Tweedy Rd	Roadside	1998-07-06 10:45:00	1996-01-28 11:00:00	51.403834810795	0.020390228913718
+Camden	BL0	Camden - Bloomsbury	Urban Background		1992-01-23 00:00:00	51.522287	-0.125848
+Camden	KX4	Camden - Coopers Lane	Industrial	2020-07-01 00:00:00	2009-07-01 00:00:00	51.533238	-0.129594
+Camden	CD9	Camden - Euston Road	Roadside	2020-07-02 00:00:00	2011-01-29 00:00:00	51.527975	-0.1287742
+Camden	IM1	Camden - Holborn (Bee Midtown)	Kerbside		2014-02-06 00:00:00	51.5173675146177	-0.1201947113171
+Camden	CD3	Camden - Shaftesbury Avenue	Roadside	2016-11-04 00:00:00	2000-04-20 06:00:00	51.515532	-0.127027
+Camden	CD4	Camden - St Martins College (NOX 1)	Urban Background	2010-07-13 00:00:00	2007-06-22 00:00:00	51.518846	-0.12034
+Camden	CD5	Camden - St Martins College (NOX 2)	Urban Background	2011-01-15 00:00:00	2007-06-22 00:00:00	51.518846	-0.12034
+Camden	CD1	Camden - Swiss Cottage	Kerbside		1996-04-16 13:30:00	51.544219	-0.175284
+City of London	CT4	City of London - Beech Street	Roadside	2023-07-03 00:00:00	2003-01-01 00:00:00	51.520225273171	-0.0961060474176381
+City of London	CTA	City of London - Bell Wharf Lane	Roadside	2023-07-03 00:00:00	2022-05-12 00:00:00	51.5105969158391	-0.0921029031922594
+City of London	CT2	City of London - Farringdon Street	Kerbside	2023-07-03 00:00:00	2003-01-01 00:00:00	51.5145253362314	-0.104515626337876
+City of London	CT9	City of London - Guildhall	Urban Background	2023-07-04 00:00:00	2022-01-24 00:00:00	51.515907	-0.092023986
+City of London	CT1	City of London - Senator House	Urban Background	2013-01-16 00:00:00	2001-10-10 14:45:00	51.511491	-0.095807
+City of London	CT3	City of London - The Aldgate School	Urban Background	2023-06-30 00:00:00	2003-01-01 00:00:00	51.513847178423	-0.077765681752
+City of London	CT8	City of London - Upper Thames Street	Roadside	2021-09-13 00:00:00	2007-04-22 00:00:00	51.5095436853913	-0.0873571979556188
+City of London	CT6	City of London - Walbrook Wharf	Roadside	2023-01-09 00:00:00	2007-04-01 00:00:00	51.510499	-0.091634
+Croydon	CR6	Croydon - Euston Road	Suburban	2009-05-22 00:00:00	2001-01-26 08:00:00	51.3786978969719	-0.113796403332539
+Croydon	CR4	Croydon - George Street	Roadside	2015-04-02 00:00:00	1999-09-20 07:45:00	51.374312	-0.096503
+Croydon	CR5	Croydon - Norbury	Kerbside		2000-10-05 11:15:00	51.411349	-0.12311
+Croydon	CR8	Croydon - Norbury Manor	Urban Background		2014-12-01 00:00:00	51.410039	-0.127523
+Croydon	CR9	Croydon - Park Lane	Roadside		2015-11-02 00:00:00	51.3739530635378	-0.0967638468323854
+Croydon	CR2	Croydon - Purley Way	Roadside	2010-10-08 00:00:00	1994-08-08 13:00:00	51.362638	-0.117952
+Croydon	CR7	Croydon - Purley Way A23	Roadside		2012-01-19 00:00:00	51.3622305655403	-0.117604507351392
+Croydon	CR3	Croydon - Thornton Heath	Suburban	2013-02-08 00:00:00	1997-06-13 02:30:00	51.40401	-0.098814
+Croydon	CY1	Crystal Palace - Crystal Palace Parade	Roadside	2010-07-29 00:00:00	1999-09-29 23:00:00	51.424812	-0.075449
+Ealing	EA2	Ealing - Acton Town Hall	Roadside	2012-01-17 00:00:00	1996-09-09 15:00:00	51.506628	-0.267934
+Ealing	EG1	Ealing - Acton Town Hall (Partisol)	Roadside	2006-10-04 00:00:00	2005-09-01 00:00:00	51.5065947337762	-0.267964378025953
+Ealing	EA0	Ealing - Acton Town Hall FDMS	Roadside	2011-12-29 00:00:00	2005-04-29 09:00:00	51.506628	-0.267934
+Ealing	EI3	Ealing - Acton Vale 	Urban Background		2017-11-23 00:00:00	51.5038527919816	-0.254668101620372
+Ealing	EA9	Ealing - Court Way	Roadside	2006-06-01 00:00:00	2005-04-19 01:00:00	51.5225651213491	-0.264922414775277
+Ealing	EA1	Ealing - Ealing Town Hall	Urban Background	2012-01-10 00:00:00	1995-03-14 00:00:00	51.5133230466548	-0.307529015473585
+Ealing	EI0	Ealing - Greenford	Urban Background	2009-04-15 00:00:00	2008-03-25 00:00:00	51.5439296252862	-0.352801776049933
+Ealing	EA6	Ealing - Hanger Lane Gyratory	Roadside		2003-08-04 00:00:00	51.53085	-0.292488
+Ealing	EA8	Ealing - Horn Lane	Industrial		2005-02-25 00:00:00	51.518948	-0.265617
+Ealing	EI8	Ealing - Horn Lane TEOM	Industrial		2005-02-25 00:00:00	51.5189160348806	-0.265652052386222
+Ealing	EA7	Ealing - Southall	Urban Background	2016-01-26 00:00:00	2004-07-13 11:00:00	51.508549	-0.392179
+Ealing	EI7	Ealing - Southall FDMS	Urban Background	2016-01-26 00:00:00	2011-12-28 11:00:00	51.5085164816243	-0.392208459173292
+Ealing	EI2	Ealing - Southall Railway	Roadside	2014-01-06 00:00:00	2011-04-08 00:00:00	51.5058699783726	-0.380241031512669
+Ealing	EI1	Ealing - Western Avenue	Roadside		2010-03-19 00:00:00	51.5236078191481	-0.265502631799754
+Enfield	EN5	Enfield - Bowes Primary School	Roadside		2004-07-01 00:00:00	51.613865	-0.125338
+Enfield	EN1	Enfield - Bush Hill Park	Suburban		1995-06-29 08:00:00	51.6450367266602	-0.0661800662229116
+Enfield	EN2	Enfield - Church Street	Roadside	2006-09-14 00:00:00	1997-12-21 16:00:00	51.6524364979749	-0.084224624306898
+Enfield	EN4	Enfield - Derby Road	Roadside		2000-02-29 09:15:00	51.614864007	-0.0507658363689
+Enfield	EN7	Enfield - Prince of Wales School	Urban Background		2012-07-09 00:00:00	51.66864334727	-0.02200720557
+Enfield	EN3	Enfield - Salisbury School	Urban Background	2008-07-28 00:00:00	1998-11-03 10:00:00	51.6374794858769	-0.0442461406121593
+Greenwich	GN0	Greenwich - A206 Burrage Grove	Roadside		2004-10-07 00:00:00	51.490532	0.074003
+Greenwich	GR7	Greenwich - Blackheath	Roadside		2002-03-08 11:00:00	51.472504	-0.012381
+Greenwich	GR4	Greenwich - Eltham	Suburban		1995-01-01 00:00:00	51.45258	0.070766
+Bexley	GB6	Greenwich - Falconwood	Roadside		2000-10-18 09:15:00	51.4563	0.085606
+Bexley	GB0	Greenwich - Falconwood FDMS	Roadside		2009-03-16 00:00:00	51.4563	0.085606
+Greenwich	GN4	Greenwich - Fiveways Sidcup Rd A20	Roadside		2011-01-24 00:00:00	51.4346627060562	0.0642224671704697
+Greenwich	GN6	Greenwich - John Harrison Way	Roadside		2018-07-02 00:00:00	51.4937746695818	0.0107796237032558
+Greenwich	GN2	Greenwich - Millennium Village	Industrial	2016-10-20 00:00:00	2004-08-01 00:00:00	51.492571	0.017697
+Greenwich	GN3	Greenwich - Plumstead High Street	Roadside		2006-01-27 00:00:00	51.486957	0.095111
+Greenwich	GR5	Greenwich - Trafalgar Road	Roadside	2015-12-02 00:00:00	1996-11-27 00:00:00	51.4834490664601	-0.000145562683198809
+Greenwich	GN5	Greenwich - Trafalgar Road (Hoskins St)	Roadside		2017-10-12 00:00:00	51.4839072533485	0.000407396935849736
+Greenwich	TL4	Greenwich - Tunnel Avenue	Roadside		2020-12-04 00:00:00	51.495057	0.0041074676
+Greenwich	GR9	Greenwich - Westhorne Avenue	Roadside		2004-10-01 00:00:00	51.456357	0.040725
+Greenwich	GR8	Greenwich - Woolwich Flyover	Roadside		2004-07-08 00:00:00	51.486884	0.017901
+Hackney	HN0	Hackney - Amhurst Road	Roadside	2022-07-18 00:00:00	2022-04-01 00:00:00	51.5500559909969	-0.0633016026789864
+Hackney	HK4	Hackney - Clapton	Urban Background	2011-08-31 00:00:00	1993-10-08 16:15:00	51.558884	-0.056388
+Hackney	HN1	Hackney - Homerton Library	Roadside	2022-07-18 00:00:00	2022-04-01 00:00:00	51.5487472103442	-0.0418806967224562
+Hackney	HK6	Hackney - Old Street	Roadside		2000-05-31 23:00:00	51.526454	-0.08491
+Hackney	HK9	Hackney - Queensbridge Road	Roadside	2022-07-18 00:00:00	2022-02-01 00:00:00	51.539324	-0.070078971
+Hammersmith and Fulham	HF1	Hammersmith and Fulham - Broadway	Roadside	2009-01-20 00:00:00	1999-08-23 18:15:00	51.4927663395234	-0.223601338284455
+Hammersmith and Fulham	HF2	Hammersmith and Fulham - Brook Green	Urban Background	2009-01-21 00:00:00	2003-07-28 12:00:00	51.4964961786764	-0.220502981077703
+Hammersmith and Fulham	HF3	Hammersmith and Fulham - Scrubs Lane	Kerbside	2005-10-27 14:00:00	2005-03-30 12:00:00	51.5308895141056	-0.237011005357313
+Hammersmith and Fulham	HF4	Hammersmith and Fulham - Shepherds Bush	Roadside	2017-10-27 00:00:00	2011-10-31 00:00:00	51.5045625671557	-0.224670007031603
+Haringey	HG4	Haringey  - Priory Park South	Urban Background		2012-10-25 00:00:00	51.5839769007709	-0.125400278484885
+Haringey	HG3	Haringey - Bounds Green	Roadside	2001-03-11 23:45:00	1999-06-21 00:15:00	51.6059499474804	-0.123441120322547
+Haringey	HG1	Haringey - Haringey Town Hall	Roadside		1994-11-29 12:00:00	51.599302	-0.068218
+Haringey	HG2	Haringey - Priory Park	Urban Background	2012-10-25 00:00:00	1996-03-29 00:00:00	51.586029	-0.126486
+Harrow	HR2	Harrow - Pinner Road	Roadside	2023-07-31 00:00:00	2003-06-16 00:00:00	51.588417	-0.362989
+Harrow	HR1	Harrow - Stanmore	Urban Background	2023-08-14 00:00:00	1999-04-10 10:00:00	51.617327	-0.298775
+Havering	HV2	Havering - Harold Hill	Suburban	2000-11-12 14:45:00	1998-03-31 23:00:00	51.6065992159427	0.225359558329898
+Havering	HV1	Havering - Rainham	Roadside		1995-12-08 00:00:00	51.520787459334	0.205460705694044
+Havering	HV3	Havering - Romford	Roadside		1998-12-22 10:00:00	51.572976	0.179079
+Hillingdon	LH2	Heathrow Airport	Industrial	2011-02-24 00:00:00	1999-01-01 00:00:00	51.4792338864893	-0.440530703282971
+Hillingdon	LH0	Hillingdon - Harlington	Urban Background		2004-01-01 00:00:00	51.48878	-0.441627
+Hillingdon	HI2	Hillingdon - Hillingdon Hospital	Roadside	2011-06-01 00:00:00	2002-09-25 11:30:00	51.526115	-0.459128
+Hillingdon	HI0	Hillingdon - Keats Way	Suburban		1996-08-02 00:00:00	51.496309	-0.460826
+Hillingdon	HI3	Hillingdon - Oxford Avenue	Roadside	2011-06-01 00:00:00	2005-03-01 12:00:00	51.481131839058	-0.423760323968
+Hillingdon	HI1	Hillingdon - South Ruislip	Roadside	2011-06-01 00:00:00	1994-01-01 00:00:00	51.552264	-0.402779
+Hounslow	HS1	Hounslow - Brentford	Roadside	2003-01-01 00:00:00	1993-04-01 00:00:00	51.489321	-0.310002
+Hounslow	HS3	Hounslow - Brentford	Roadside	2003-01-01 00:00:00	1999-03-20 12:00:00	51.489321	-0.310002
+Hounslow	HS5	Hounslow - Brentford	Roadside	2012-04-01 00:00:00	2003-06-02 13:00:00	51.489398	-0.310081
+Hounslow	HS4	Hounslow - Chiswick High Road	Roadside	2012-04-01 00:00:00	1999-08-26 11:45:00	51.492507	-0.257252
+Hounslow	HS2	Hounslow - Cranford	Suburban	2012-04-01 00:00:00	1999-01-02 18:00:00	51.482982	-0.411895
+Hounslow	HS9	Hounslow - Feltham	Roadside	2012-04-01 00:00:00	2009-08-19 00:00:00	51.4473877655456	-0.408732837243793
+Hounslow	HS7	Hounslow - Hatton Cross	Urban Background	2012-04-01 00:00:00	2006-01-05 00:00:00	51.463402	-0.427525
+Hounslow	HS6	Hounslow - Heston Road	Roadside	2012-04-01 00:00:00	2006-04-13 00:00:00	51.479129	-0.36476
+Hounslow	HS8	Hounslow and Ealing - Gunnersbury Avenue	Roadside	2015-02-09 00:00:00	2012-02-09 00:00:00	51.500676298573	-0.284383168481281
+Islington	IS6	Islington - Arsenal	Urban Background		2007-03-14 00:00:00	51.557895	-0.106989
+Islington	IS5	Islington - Duncan Terrace	Roadside	2009-03-11 00:00:00	2006-08-04 00:00:00	51.5322658877275	-0.104413186512037
+Islington	IS4	Islington - Foxham Gardens	Urban Background	2009-03-11 00:00:00	2006-04-20 00:00:00	51.5600403385285	-0.131679425163847
+Islington	IS2	Islington - Holloway Road	Roadside		2000-07-12 06:45:00	51.555378	-0.116146
+Islington	IS1	Islington - Upper Street	Urban Background	2007-03-14 00:00:00	1994-05-13 01:00:00	51.5407003385595	-0.103269578193151
+Kensington and Chelsea	KC2	Kensington and Chelsea - Cromwell Road	Roadside	2017-10-27 00:00:00	1998-05-10 20:00:00	51.49550391	-0.178809464
+Kensington and Chelsea	KC5	Kensington and Chelsea - Earls Court Rd	Kerbside	2017-10-27 00:00:00	2002-05-01 00:00:00	51.49019756	-0.190863311
+Kensington and Chelsea	KG2	Kensington and Chelsea - Green Screen BG	Urban Background	2014-10-31 00:00:00	2013-10-30 00:00:00	51.4894131144322	-0.193640886158949
+Kensington and Chelsea	KG1	Kensington and Chelsea - Green Screen RS	Roadside	2014-10-31 00:00:00	2013-10-30 00:00:00	51.4894131144322	-0.193640886158949
+Kensington and Chelsea	KC4	Kensington and Chelsea - Kings Road	Roadside	2017-10-26 00:00:00	2000-09-27 14:15:00	51.48743685	-0.168397129
+Kensington and Chelsea	KC3	Kensington and Chelsea - Knightsbridge	Roadside	2017-10-26 00:00:00	2000-03-28 11:30:00	51.49913951	-0.164337605
+Kensington and Chelsea	KC1	Kensington and Chelsea - North Ken	Urban Background		1995-03-17 00:00:00	51.5210467476039	-0.213492139585065
+Kensington and Chelsea	KC7	Kensington and Chelsea - North Ken FDMS	Urban Background	2018-03-01 00:00:00	2003-11-21 00:00:00	51.5210467476039	-0.213492139585065
+Kensington and Chelsea	KF1	Kensington and Chelsea - North Ken FIDAS	Urban Background		2017-02-20 00:00:00	51.5210467476039	-0.213492139585065
+Kensington and Chelsea	WE0	Kensington and Chelsea - Pembroke Road	Urban Background	2007-09-30 00:00:00	1987-01-01 00:00:00	51.4942847451596	-0.199340350918702
+Kingston	KT1	Kingston - Chessington	Suburban	2008-07-07 12:00:00	1996-01-24 14:00:00	51.3566466913867	-0.316770841962737
+Kingston	A30	Kingston - Kingston Bypass A3	Roadside	2007-09-30 00:00:00	1997-03-20 00:00:00	51.373553348648	-0.291969827871431
+Kingston	KT2	Kingston - Town Centre	Roadside	2000-06-23 08:45:00	1996-04-26 06:00:00	51.4144307605309	-0.301706822060131
+Kingston	KT5	Kingston Upon Thames - Cromwell Road	Roadside		2018-03-12 00:00:00	51.412308	-0.29658478
+Kingston	KT6	Kingston Upon Thames - Kingston Vale	Roadside		2018-03-12 00:00:00	51.4355006647773	-0.257029893767993
+Kingston	KT3	Kingston Upon Thames - Sopwith Way	Roadside	2016-07-13 00:00:00	2015-03-10 00:00:00	51.413691	-0.302269
+Kingston	KT4	Kingston Upon Thames - Tolworth Broadway	Roadside		2015-04-13 00:00:00	51.379312	-0.281259
+Lambeth	LB5	Lambeth - Bondway Interchange	Industrial		2005-02-01 00:00:00	51.4854867739729	-0.124545234819213
+Lambeth	LB4	Lambeth - Brixton Road	Kerbside		2003-12-18 00:00:00	51.464113541162	-0.11458102695123
+Lambeth	LB1	Lambeth - Christchurch Road	Roadside	2010-12-02 00:00:00	2000-09-24 09:00:00	51.444249	-0.121731
+Lambeth	LB3	Lambeth - Loughborough Junct	Urban Background	2010-12-20 00:00:00	2001-12-19 11:00:00	51.464866	-0.099161
+Lambeth	LB6	Lambeth - Streatham Green	Urban Background		2009-08-17 00:00:00	51.4282131429499	-0.13186863879576
+Lambeth	LB2	Lambeth - Vauxhall Cross	Roadside	2003-07-01 00:00:00	2001-12-19 15:00:00	51.4849123099475	-0.125173736606014
+Lewisham	LW1	Lewisham - Catford	Urban Background	2021-11-03 00:00:00	1996-08-02 15:00:00	51.445468	-0.020266
+Lewisham	LW5	Lewisham - Deptford	Urban Background		2019-09-20 00:00:00	51.4795312838203	-0.0252606031340197
+Lewisham	HP1	Lewisham - Honor Oak Park	Urban Background		2018-11-27 00:00:00	51.4496728960354	-0.0374153592115306
+Lewisham	LW6	Lewisham - Laurence House Catford	Roadside		2021-11-09 00:00:00	51.4447808	-0.0221832
+Lewisham	LW4	Lewisham - Loampit Vale	Roadside		2012-07-10 00:00:00	51.4646910611736	-0.0160682432041527
+Lewisham	LW3	Lewisham - Mercury Way	Industrial	2016-02-03 00:00:00	2010-01-01 00:00:00	51.4811412184719	-0.0456708566668043
+Lewisham	LW2	Lewisham - New Cross	Roadside		2002-03-31 13:45:00	51.474954	-0.039641
+Richmond	TD5	London Teddington Bushy Park 	Suburban		2004-11-15 00:00:00	51.4252560360937	-0.345608290872898
+Westminster	MR8	Marylebone Road - BAM	Kerbside		2012-01-11 00:00:00	51.5225093597419	-0.154622154656843
+Merton	ME5	Merton - Esampler1	Industrial		2014-12-02 00:00:00		
+Merton	ME6	Merton - Esampler2	Industrial		2014-12-02 00:00:00		
+Merton	ME2	Merton - Merton Road	Roadside		2011-06-29 00:00:00	51.4161384794862	-0.192230805042824
+Merton	ME1	Merton - Morden Civic Centre	Roadside	2017-01-27 00:00:00	2010-01-13 00:00:00	51.40105	-0.195929
+Merton	ME9	Merton - Morden Civic Centre 2	Roadside		2017-01-27 00:00:00	51.40162	-0.19589212
+Merton	ME7	Merton - Willow Lane Industrial Estate	Industrial	2016-04-01 00:00:00	2015-08-05 00:00:00	51.3943415638	-0.165161044588
+Newham	TL6	Newham - Britannia Gate	Roadside		2020-12-04 00:00:00	51.503858	0.020574415
+Newham	NM2	Newham - Cam Road	Roadside		1998-08-18 00:00:00	51.537598	-0.002138
+Newham	NM4	Newham - East Ham Town Hall	Roadside		2022-12-19 00:00:00	51.5330166040173	0.0550002064487128
+Newham	TL5	Newham - Hoola Tower	Roadside		2021-03-08 00:00:00	51.508198	0.015002152
+Newham	NM1	Newham - Tant Avenue	Urban Background	2003-12-31 00:00:00	1998-01-01 00:00:00	51.514764	0.011989
+Newham	NM3	Newham - Wren Close	Urban Background		2003-03-21 00:00:00	51.514727	0.014554
+Redbridge	RB3	Redbridge - Fullwell Cross	Kerbside	2012-03-30 10:45:00	1999-11-20 14:00:00	51.593935	0.085516
+Redbridge	RB4	Redbridge - Gardner Close	Roadside		1999-11-21 13:00:00	51.57661	0.030858
+Redbridge	RB2	Redbridge - Ilford Broadway	Kerbside	2003-06-01 00:00:00	1999-12-01 14:00:00	51.5583461865157	0.0699915095238029
+Redbridge	RB7	Redbridge - Ley Street	Urban Background		2014-05-15 00:00:00	51.5694843315237	0.0829074748964946
+Redbridge	RB1	Redbridge - Perth Terrace	Urban Background	2014-05-13 00:00:00	1999-11-21 10:00:00	51.569221	0.081821
+Redbridge	RB5	Redbridge - South Woodford	Roadside	2012-03-30 10:45:00	2003-11-19 00:00:00	51.595851	0.020087
+Westminster	CE3	Regent Street (The Crown Estate)	Roadside		2022-11-02 00:00:00	51.5113771448991	-0.139249367757023
+Westminster	CE1	Regent Street facade (The Crown Estate)	Roadside	2023-03-01 00:00:00	2020-05-01 00:00:00	51.5111824979787	-0.139114122784456
+Richmond	RI2	Richmond Upon Thames - Barnes Wetlands	Suburban		2001-03-29 10:00:00	51.476168	-0.230427
+Richmond	RI1	Richmond Upon Thames - Castelnau	Roadside		2000-06-14 00:15:00	51.480189	-0.237335
+Richmond	RHG	Richmond Upon Thames - Chertsey Road	Roadside	2020-08-06 00:00:00	2016-05-24 00:00:00	51.4531422511004	-0.341218138106469
+Enfield	AZ99	Sk B Site	Urban Background		2018-08-28 00:00:00	50.9112219333093	0.0556574726512342
+Southwark	SK5	Southwark - A2 Old Kent Road	Roadside		2010-11-24 00:00:00	51.4804994936467	-0.0595528932573422
+Southwark	SK9	Southwark - A2 Old Kent Road FIDAS	Roadside		2010-11-24 00:00:00	51.4804994936467	-0.0595528932573422
+Southwark	SK6	Southwark - Elephant and Castle	Urban Background		2013-01-23 00:00:00	51.4931557048667	-0.101527038274853
+Southwark	SK7	Southwark - Heygate	Urban Background	2015-11-11 00:00:00	2014-08-26 00:00:00	51.4929813788003	-0.0985378910481832
+Southwark	SK1	Southwark - Larcom Street	Urban Background	2009-06-17 12:00:00	1993-03-01 00:00:00	51.490548	-0.09661
+Southwark	SKA	Southwark - Lower Road	Roadside		2020-11-24 00:00:00	51.4965604167321	-0.0530504472531612
+Southwark	SK2	Southwark - Old Kent Road	Roadside	2006-04-21 00:00:00	1994-05-03 00:00:00	51.4819456792926	-0.0627176235171689
+Southwark	SKC	Southwark - South Circular Road	Roadside		2021-07-22 00:00:00	51.442633	-0.077653974
+Southwark	SK8	Southwark - Tower Bridge Road	Roadside		2019-06-01 00:00:00	51.5013906712066	-0.0782034373606952
+Southwark	SKB	Southwark - Vicarage Grove	Roadside		2021-01-26 00:00:00	51.4735803479615	-0.0877818536754426
+Sutton	ST8	Sutton - Beddington Lane 	Industrial	2020-10-16 00:00:00	2012-04-04 00:00:00	51.3835652277943	-0.136417861473301
+Sutton	ST5	Sutton - Beddington Lane north	Industrial		2005-12-01 00:00:00	51.389286904505	-0.141661524779893
+Sutton	ST9	Sutton - Beddington Village	Roadside		2020-10-16 00:00:00	51.3712010773161	-0.131948824988095
+Sutton	ST3	Sutton - Carshalton	Suburban	2016-07-13 00:00:00	1995-05-05 07:00:00	51.365318	-0.165936
+Sutton	ST2	Sutton - North Cheam	Urban Background	2002-05-03 00:00:00	1995-04-25 17:00:00	51.3771892138334	-0.222044077436931
+Sutton	ST1	Sutton - Robin Hood School	Roadside	2002-04-26 00:00:00	1995-04-26 07:00:00	51.365744	-0.195563
+Sutton	ST7	Sutton - Therapia Lane	Industrial	2012-02-10 00:00:00	2010-02-09 00:00:00	51.3858391292126	-0.136339857220486
+Sutton	ST4	Sutton - Wallington	Kerbside		2002-07-17 00:00:00	51.3586596124998	-0.149723946604927
+Sutton	ST6	Sutton - Worcester Park	Kerbside		2008-11-04 00:00:00	51.377923	-0.240414
+Tower Hamlets	TH3	Tower Hamlets - Bethnal Green	Urban Background	2009-11-02 00:00:00	1999-10-24 12:00:00	51.526737	-0.053869
+Tower Hamlets	TH4	Tower Hamlets - Blackwall	Roadside		2006-09-08 00:00:00	51.5150461674013	-0.00841849265642741
+Hackney	CW3	Tower Hamlets - Jubilee Park	Urban Background		2022-01-17 00:00:00	51.5029878731458	-0.0180219908165375
+Tower Hamlets	TH2	Tower Hamlets - Mile End Road	Roadside		1994-03-10 00:00:00	51.5225294860844	-0.0421550991900347
+Tower Hamlets	TH6	Tower Hamlets - Millwall Park	Urban Background	2016-11-26 00:00:00	2015-07-06 00:00:00	51.4891342634	-0.0129769309432
+Tower Hamlets	TH1	Tower Hamlets - Poplar	Urban Background	2013-07-02 00:00:00	1994-01-04 17:00:00	51.510012	-0.019866
+Tower Hamlets	TH5	Tower Hamlets - Victoria Park	Urban Background	2016-11-26 00:00:00	2012-07-25 00:00:00	51.5405194915241	-0.033307388878
+Waltham Forest	WL3	Waltham Forest - Chingford	Roadside	2007-04-18 00:00:00	2003-07-14 12:00:00	51.6251928602333	-0.0225973251092037
+Waltham Forest	WL4	Waltham Forest - Crooked Billet	Kerbside	2011-04-01 00:00:00	2007-11-01 00:00:00	51.601718495597	-0.016498263136
+Waltham Forest	WL1	Waltham Forest - Dawlish Road	Urban Background	2011-04-01 00:00:00	1998-07-05 08:00:00	51.562422	-0.004891
+Waltham Forest	WL5	Waltham Forest - Leyton	Roadside	2011-04-01 00:00:00	2007-09-20 00:00:00	51.556257676576	-0.013629679065
+Waltham Forest	WL2	Waltham Forest - Mobile	Roadside	2001-10-12 11:00:00	1998-07-09 12:15:00	51.564725703428	0.00399595335237289
+Wandsworth	WAA	Wandsworth - Battersea	Roadside		2012-06-19 00:00:00	51.4794395281222	-0.141786953606306
+Wandsworth	WA1	Wandsworth - Garratt Lane	Roadside	1996-02-26 00:00:00	1995-04-01 00:00:00	51.4548722085	-0.193003999857021
+Wandsworth	WA4	Wandsworth - High Street	Roadside	2007-08-30 08:45:00	1998-01-31 23:00:00	51.4564354037312	-0.191157408342927
+Wandsworth	WAC	Wandsworth - Lavender Hill (Clapham Jct)	Roadside		2016-04-14 00:00:00	51.4636903568111	-0.166713485994806
+Wandsworth	WA9	Wandsworth - Putney	Urban Background		2011-01-04 00:00:00	51.4650325059122	-0.215824580947572
+Wandsworth	WA7	Wandsworth - Putney High Street	Kerbside		2009-07-09 00:00:00	51.463429	-0.215871
+Wandsworth	WA8	Wandsworth - Putney High Street Facade	Roadside		2010-04-23 00:00:00	51.4637206047191	-0.215890144123119
+Wandsworth	WA3	Wandsworth - Roehampton	Rural	2000-11-24 13:45:00	1994-10-31 00:00:00	51.4569204685076	-0.245562490498382
+Wandsworth	WA6	Wandsworth - Tooting	Roadside	2009-08-28 13:30:00	2008-07-01 00:00:00	51.425284	-0.164452
+Wandsworth	WAB	Wandsworth - Tooting High Street	Roadside		2015-06-11 00:00:00	51.429331	-0.166524
+Wandsworth	WA2	Wandsworth - Wandsworth Town Hall	Urban Background		1994-10-11 14:00:00	51.456962	-0.191074
+Westminster	CE2	Waterloo Place (The Crown Estate)	Roadside		2020-12-21 00:00:00	51.5075819137762	-0.133068372704093
+Westminster	BP0	Westminster - Bridge Place	Urban Background	1999-11-21 13:45:00	1990-07-03 00:00:00	51.4938505656999	-0.143808451030166
+Westminster	WMA	Westminster - Buckingham Palace Road	Roadside	2020-04-27 10:00:00	2018-02-18 00:00:00	51.4932327916861	-0.147391757027028
+Westminster	WMC	Westminster - Cavendish Square	Roadside	2023-06-08 00:00:00	2018-05-31 12:00:00	51.5168016452062	-0.145657269364411
+Westminster	WM4	Westminster - Charing Cross Library	Roadside	2011-01-11 00:00:00	2007-02-01 00:00:00	51.510205	-0.128177
+Westminster	WM5	Westminster - Covent Garden	Urban Background		2009-07-10 00:00:00	51.5119769825798	-0.12162720332856
+Westminster	GV2	Westminster - Duke Street (Grosvenor)	Roadside		2019-08-22 16:00:00	51.5129998832095	-0.150913488159214
+Westminster	GV1	Westminster - Ebury Street (Grosvenor)	Roadside		2018-12-11 09:00:00	51.493492	-0.149906
+Westminster	WMD	Westminster - Elizabeth Bridge	Roadside		2020-04-27 00:00:00	51.4922482333024	-0.147114752900186
+Westminster	WM0	Westminster - Horseferry Road	Urban Background		2001-07-17 00:00:00	51.494681	-0.131938
+Westminster	MY1	Westminster - Marylebone Road	Kerbside		1997-05-26 12:00:00	51.52254	-0.15459
+Westminster	MY7	Westminster - Marylebone Road FDMS	Kerbside	2021-12-21 08:00:00	2004-01-22 12:00:00	51.52254	-0.15459
+Westminster	WM6	Westminster - Oxford Street	Kerbside		2011-01-01 00:00:00	51.5139287404213	-0.152792701881935
+Westminster	WMZ	Westminster - Oxford Street 2	Kerbside	2016-09-08 00:00:00	2016-05-13 00:00:00	51.5139287404213	-0.152792701881935
+Westminster	WMB	Westminster - Oxford Street East	Roadside	2023-06-08 00:00:00	2018-06-05 00:00:00	51.516066	-0.13516388
+Westminster	NB1	Westminster - Strand (Northbank BID)	Roadside		2015-04-28 00:00:00	51.5119701188277	-0.116713103528546
+Westminster	WM8	Westminster - Victoria	Urban Background	2016-04-04 00:00:00	2014-01-06 00:00:00	51.497066177578	-0.142438820740121
+Westminster	WM9	Westminster - Victoria (Victoria BID)	Roadside	2017-09-20 00:00:00	2016-08-08 00:00:00	51.4977331829735	-0.14424140916201
+Westminster	VS1	Westminster - Victoria Street	Kerbside	2008-04-01 00:00:00	2003-05-02 15:00:00	51.4992450135925	-0.131285173980659
